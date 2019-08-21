@@ -10,3 +10,4 @@ BGAQRCode-Android 使用方法
   <uses-permission android:name="android.permission.CAMERA"/>  
   <uses-permission android:name="android.permission.VIBRATE"/>  
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+s
