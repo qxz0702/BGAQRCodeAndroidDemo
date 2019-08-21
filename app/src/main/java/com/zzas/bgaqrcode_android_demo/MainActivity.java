@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity implements EasyPermissions.P
                 startActivity(new Intent(this, ZxingTestScanActivity.class));
                 break;
             case R.id.btnZbar:
-                startActivity(new Intent(this, ZxingTestScanActivity.class));
+                startActivity(new Intent(this, ZbarTestScanActivity.class));
                 break;
         }
     }
