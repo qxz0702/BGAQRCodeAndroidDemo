@@ -7,7 +7,6 @@ BGAQRCode-Android 使用方法
   implementation 'cn.bingoogolapple:bga-qrcode-zbar:1.3.6'  
   implementation 'pub.devrel:easypermissions:1.0.1'  
 二、添加权限  
-  <uses-permission android:name="android.permission.CAMERA"/>  
+  &lt;uses-permission android:name="android.permission.CAMERA"/&gt;  
   <uses-permission android:name="android.permission.VIBRATE"/>  
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-s
