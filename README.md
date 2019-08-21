@@ -8,5 +8,5 @@ BGAQRCode-Android 使用方法
   implementation 'pub.devrel:easypermissions:1.0.1'  
 二、添加权限  
   &lt;uses-permission android:name="android.permission.CAMERA"/&gt;  
-  <uses-permission android:name="android.permission.VIBRATE"/>  
-  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  &lt;uses-permission android:name="android.permission.VIBRATE"/&gt;  
+  &lt;uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /&gt;
