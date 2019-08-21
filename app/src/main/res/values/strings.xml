@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BGAQRCode-Android-Demo</string>
+    <string name="zxing">zxing扫码</string>
 </resources>
