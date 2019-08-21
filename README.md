@@ -2,7 +2,7 @@
 二维码
 BGAQRCode-Android 使用方法
 
-一、Gradle 依赖
+一、Gradle 依赖  
   implementation 'cn.bingoogolapple:bga-qrcode-zxing:1.3.6'
   implementation 'cn.bingoogolapple:bga-qrcode-zbar:1.3.6'
   implementation 'pub.devrel:easypermissions:1.0.1'
